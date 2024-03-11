@@ -1,4 +1,4 @@
-![image](https://github.com/M06Pratyush/Billing-System/assets/161855611/e3b22792-2ede-47c5-a2b3-d8305e423bdd)# Billing-System
+# Billing-System
 A simple billing system is a software program designed to help businesses manage their invoicing and payment processes
 ABOUT THE PROJECT:
 A simple billing system is a software program designed to help businesses manage their invoicing and payment processes. It typically includes features such as creating and sending invoices, tracking payments and overdue balances, and generating reports. The system can be used by businesses of all sizes to streamline their billing processes and ensure timely payments from customers. With a simple billing system, businesses can reduce the time and effort spent on manual invoicing and payment tracking, and focus on growing their business instead. Some billing systems may also integrate with accounting software and payment gateways to provide a more comprehensive solution for managing financial transactions.
